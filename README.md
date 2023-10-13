@@ -1,6 +1,3 @@
-# James_Portfolio
-Data Science Portfolio
-
 # [Project 1: Data Science on Taric Jungle Games in League of Legends. Project Overview](https://github.com/jbooth23/Taric-Jungle-General-Data/blob/main/Taric%20Games)
 
 * Collected data on 1900 League of Legends solo queue games in 2021 for a single player across several statistics including wins, losses, jungle matchups and respective win rates, runes, as well as item and build specific win rates. 
